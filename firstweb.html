@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home</title>
+    </head>
+<body>
+    <h1>Welcome to my Webpage</h1>
+    <p>My name is Eakkasit</p>
+    <img src="Cute_dog.jpg" alt = 'My Dog' width="100">
+
+</body>
+</html>
